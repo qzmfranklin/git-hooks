@@ -1,0 +1,8 @@
+Repository that stores various hooks.
+
+To use these hooks, simply clone into the .git/hooks directory:
+    ```
+    cd .git
+    mv hooks hooks.orig # back up the original hooks
+    git clone https://github.com/qzmfranklin/git-hooks.git hooks
+    ```
